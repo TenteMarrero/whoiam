@@ -1,0 +1,4 @@
+node_modules/
+.vscode/
+.eslintrc.json
+server/config/config.json
